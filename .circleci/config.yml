@@ -1,4 +1,4 @@
-version: 2.1 # CircleCIのコンフィグファイルのバージョン
+version: 2.1 # CircleCIのコンフィグファイルのバージョン 2.1
       
 jobs: # ジョブの定義
   my1stjob: # ジョブ名
